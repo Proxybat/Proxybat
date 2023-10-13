@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Proxybat
 - 👀 I’m interested in... video games, art, music, & coding.
-- 🌱 I’m currently learning... Javascript & BASH.
+- 🌱 I’m currently learning... Javascript, BASH, & Git.
 - 💞️ I’m looking to collaborate... on nothing at the moment.
 - 📫 How to reach me... nothing so far!
 
