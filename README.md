@@ -5,7 +5,7 @@
 - 📫 How to reach me... nothing so far!
 
 
-![tiny ass crash bandicoot dancing](https://github.com/Proxybat/Proxybat/assets/93020192/d5da33ff-2059-4f60-a96b-ff965b93cb72)
+![tiny ass crash bandicoot dancing](https://github.com/Proxybat/Proxybat/assets/93020192/d5da33ff-2059-4f60-a96b-ff965b93cb72.gif)
 
 <!---
 Proxybat/Proxybat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
