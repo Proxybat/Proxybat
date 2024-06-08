@@ -16,9 +16,10 @@ Hi I'm fairly new to code, I made a github for 2 reasons.
 3. Share code/projects to others.
 4. Hopefully get help from others.
 
-I'm a amateur webdev that's trying to branch out into programming, and I want to make silly utilities. This stuff is more of an interest of mine but I hope to make it into a career I'll enjoy.
+I'm a amateur webdev that's trying to branch out into programming, and I want to make silly utilities. 
+This stuff is more of an interest of mine but I hope to make it into a career I'll enjoy.
 
-<img width="495" alt="I'm on the web." src="https://github.com/Proxybat/Proxybat/assets/93020192/a1e848a0-0cbb-4c92-a482-cab7f23d6637">
+<img width="495" alt="I'm on the web." style="margin:0 auto;" src="https://github.com/Proxybat/Proxybat/assets/93020192/a1e848a0-0cbb-4c92-a482-cab7f23d6637">
 
 ## TODO
 
