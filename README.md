@@ -9,14 +9,14 @@
 - 📫 How to reach me... nothing so far!
 
 ## Hi
-Hi I'm new to code, I made a github for 2 reasons.
+Hi I'm fairly new to code, I made a github for 2 reasons.
 
 1. To make troubleshooting with others easier.
 2. Possibly help others with their repos.
 3. Share code/projects to others.
 4. Hopefully get help from others.
 
-I'm a amateur webdev that
+I'm a amateur webdev that's trying to branch out into programming, and I want to make silly utilities. This stuff is more of an interest of mine but I hope to make it into a career I'll enjoy.
 
 <img width="495" alt="I'm on the web." src="https://github.com/Proxybat/Proxybat/assets/93020192/a1e848a0-0cbb-4c92-a482-cab7f23d6637">
 
