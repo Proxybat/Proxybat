@@ -1,5 +1,4 @@
 
-
 # Proxybat
 ## About Me
 
@@ -13,7 +12,14 @@
 
 - [ ] Update, archive, & remove userstyles.
 - [ ] Learn javascripts weird af syntax.
+  - [x] kinda???
 - [x] Make more bash scripts.
+- [ ] Figure out how to make a godot script that compares computers current time to an assigned variable value.
+  - [ ] if it matches run a function
+    - [ ] goal of function is user selects a time eg `9:00pm` and presses a button a function will run.
+    - [ ] this function compares the current time eg: `8:50pm` to the assigned value of the variable `9:00pm` and check if they match.
+    - [ ] if they match, run another function. This function does something.
+  - [ ] ???
 - [ ] Learn more shit.
 
 <img width="495" alt="I'm on the web." src="https://github.com/Proxybat/Proxybat/assets/93020192/a1e848a0-0cbb-4c92-a482-cab7f23d6637">
